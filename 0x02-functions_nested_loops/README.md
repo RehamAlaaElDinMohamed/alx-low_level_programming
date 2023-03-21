@@ -1,5 +1,6 @@
 # Functions, nested loops
-				
+		
+		
 Project done during **Full Stack Software Engineering studies** at **ALX School**. It aims to learn about header files, functions, loops and nested loops in **C language**.
 		
 	
@@ -9,9 +10,10 @@ Project done during **Full Stack Software Engineering studies** at **ALX School*
 * Tested on Ubuntu 14.04 LTS
 		
 	
-## Files
+## Files		
 All of the following files are programs written in C:
 		
+
 | Filename | Description |
 | -------- | ----------- |
 | `0-Putchar.c` | Prints `Putchar` |
@@ -29,5 +31,5 @@ All of the following files are programs written in C:
 | `100-times_table.c` | Prints the `n` times table, starting with 0 |
 | `101-natural.c` | Computes and prints the sum of all the multiplies of `3` or `5` below `1024` |
 | `102-fibonacci.c` | Prints the first 50 Fibonacci numbers, starting with `1` and `2` |
-| `103-fibonacci.c` | Finds and prints the sum of the even-valued terms |		
+| `103-fibonacci.c` | Finds and prints the sum of the even-valued terms |
 | `104-fibonacci.c` | Finds and prints the first 98 Fibonacci numbers |
